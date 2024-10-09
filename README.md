@@ -13,9 +13,9 @@ This Data Science Toolkit will provide a foundation for you, which will enable y
 ---
 ### Programming Languages
 
-[Python](https://www.anaconda.com/download)  
-R  
-SQL  
+[Python](https://www.anaconda.com/download) (Anaconda Distribution)  
+[R](https://posit.co/download/rstudio-desktop/) (download R first, then RStudio)  
+[SQL](https://www.postgresql.org/download/) (PostgreSQL)  
 
 ---
 ### Integrated Development Environments
@@ -46,6 +46,11 @@ PyCharm
 |Logistic Regression|e1071|TensorFlow|
 |Decision Tree|randomForest|
 |Random Forest|rpart|
+|K-Means|
+|K-Nearest Neighbors|
+|Naive Bayes|
+
+Deep learning practice should come at the end of mastering the basics.  
 
 ---
 ### Text Editors
