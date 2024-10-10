@@ -1,4 +1,4 @@
-# Build-a-Byte: Constructing Your Data Science Toolkit
+# :toolbox: Build-a-Byte: Constructing Your Data Science Toolkit
 This Data Science Toolkit will provide a foundation for you, which will enable you to go out and work on awesome projects.
 
 ## 8 Tool Types in Your Toollkit
@@ -12,7 +12,7 @@ This Data Science Toolkit will provide a foundation for you, which will enable y
  8. [Online Resources](#online-resources)
 
 ---
-### Programming Languages
+### :hammer: Programming Languages
 *Hammers - they put data together and take it apart*  
 
 [Python](https://www.anaconda.com/download) (Anaconda Distribution)  
@@ -25,7 +25,7 @@ This Data Science Toolkit will provide a foundation for you, which will enable y
 * Great for all things databases; can be used with Python and R  
 
 ---
-### Integrated Development Environments
+### :earth_americas: Integrated Development Environments
 *Locations - IDEs function differently and you cannot always build anything anywhere*  
 
 [Jupyter Notebooks for Python](https://jupyter.org/)  
@@ -47,7 +47,7 @@ R Gui for R
 * Great for Python and code debugging  
 
 ---
-### Data Manipulation and Visualization
+### :art: Data Manipulation and Visualization
 *Saws and paintbrushes - slice 'n' dice your data and paint with it*  
 
 |Python Analysis|Python Visualization|R Analysis|R Visualization|
@@ -58,7 +58,7 @@ R Gui for R
 |[SciPy](https://scipy.org/)|[Seaborn](https://seaborn.pydata.org/)|[tidyr](https://tidyr.tidyverse.org/)|[Shiny](https://shiny.posit.co/)|
 
 ---
-### Machine Learning
+### :wrench: Machine Learning
 *Wrench set - a variety of sizes for a variety of situations*  
 
 |Algorithms|R|Python|
@@ -73,7 +73,7 @@ R Gui for R
 * Deep learning practice should come at the end of mastering the basics.  
 
 ---
-### Text Editors
+### :page_with_curl: Text Editors
 *Duct tape - can be used for many different things*  
 
 [Notepad++](https://notepad-plus-plus.org/)  
@@ -92,7 +92,7 @@ R Gui for R
 * Free for Linux  
 
 ---
-### Documentation Tools
+### :notebook: Documentation Tools
 *Work order - a record of what you did*
 
 * Word processor like Microsoft Word
@@ -103,24 +103,23 @@ R Gui for R
   * Develop skills around organized and clean code, version control, and clear and consistent documentation
 
 ---
-### Book Resources
+### :books: Book Resources
 *Paper blueprints - the instructions for building*  
 
 [Packt Publishing](https://www.packtpub.com/)  
 [O'Reilly Media](https://www.oreilly.com/)  
 * Two publishers that churn out quality content  
 
-Selected Book List  
+Selected Books List - The linked titles are available completely online for free.  
 * Learning R (O’Reilly) By Richard Cotton  
 * [Machine Learning Engineering](https://www.mlebook.com/wiki/doku.php) By Andriy Burkov  
 * [Python for Data Analysis (O’Reilly)](https://wesmckinney.com/book/) By Wes McKinney  
 * R for Everyone (Addison-Wesley) By Jared P. Lander  
 * [R Graphics Cookbook (O’Reilly)](https://r-graphics.org/) By Winston Chang  
 * [The Hundred-page Machine Learning Book](https://themlbook.com/wiki/doku.php) By Andriy Burkov  
-  * These linked titles are available completely online for free.
 
 ---
-### Online Resources
+### :computer: Online Resources
 *Digital blueprints - more instructions for building*  
 
 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
@@ -136,9 +135,9 @@ Selected Book List
 * Get tons of datasets for free to practice with
 
 ---
-## Safety First!
+### :warning: Safety First!
 Coding projects that impact others and/or use sensitive data should always be reviewed by others. Find other data practitioners you can turn to for help.
 
 ---
-## Go construct your toolkit!
+### :hammer_and_wrench: Go construct your toolkit!
 Everyone's Data Science Toolkit will look a bit different and that is expected. It will also change over time as you learn more.
